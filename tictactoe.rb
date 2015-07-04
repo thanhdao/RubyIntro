@@ -20,6 +20,7 @@
 # 	it's a tie
 # 	#
 require 'pry'
+require_relative "fabonacci.rb"
 
 def initialize_board
 	b = {}
